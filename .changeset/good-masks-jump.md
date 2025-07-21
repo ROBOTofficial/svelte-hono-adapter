@@ -1,5 +1,5 @@
 ---
-"test-adapter-hono": major
+"adapter-hono": major
 ---
 
 feat: add adapter-hono

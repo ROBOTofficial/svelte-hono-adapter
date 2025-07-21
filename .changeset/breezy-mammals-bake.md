@@ -1,5 +1,5 @@
 ---
-"test-adapter-hono": patch
+"adapter-hono": patch
 ---
 
 fix: handler's error
